@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
  
   <groupId>sharon.profile</groupId>
-  <artifactId>profile_web</artifactId>
-  <version>1</version>
+  <artifactId>sharon.profile.web</artifactId>
+  <version>2</version>
   <packaging>war</packaging>
 </project>
