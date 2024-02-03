@@ -4,7 +4,7 @@
     <groupId>com.sharon</groupId>
     <artifactId>sharonweb</artifactId>
     <packaging>war</packaging>
-    <version>2.0</version>
+    <version>1</version>
     <name>Account SharonWebapp</name>
     <url>http://maven.apache.org</url>
     <properties>
